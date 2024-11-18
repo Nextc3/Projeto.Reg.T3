@@ -49,8 +49,8 @@ Importe para o Google Colab (recomendado e melhor visualizado) ou use Jupyter No
 
 ## Estrutura de arquivos
 
-README.md
-Relatório Técnico - Felipe Amorim & Caio Costa
+README.md, 
+Relatório Técnico - Felipe Amorim & Caio Costa, 
 Regressao_Linear_Top_Influencers.ipynb
 
 
